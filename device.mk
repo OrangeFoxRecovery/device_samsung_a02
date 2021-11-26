@@ -17,3 +17,6 @@
 #
 # 	Please maintain this if you use this script or any part of it
 #
+
+# Dynamic Partition
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
